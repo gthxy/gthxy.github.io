@@ -25,10 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a happy PhD Student in Biomedical Engineering at Georgia Institute of Technology and Emory University, working in the <a href='https://ultrasound.gatech.edu/'>Ultrasound Imaging and Therapeutics Research Lab</a> advised by <a href='https://bme.gatech.edu/bio/stanislav-emelianov'>Dr. Stanislav Emelianov</a>.
+I am a PhD student in Biomedical Engineering at the Georgia Institute of Technology and Emory University, working in the <a href='https://ultrasound.gatech.edu/'>Ultrasound Imaging and Therapeutics Research Lab</a> under the supervision of <a href='https://bme.gatech.edu/bio/stanislav-emelianov'>Dr. Stanislav Emelianov</a>. My research focuses on ultrasound-based imaging techniques for quantitative hemodynamic assessment. 
 
-I completed my undergraduate study in the Hong Kong Polytechnic University in Biomedical Engineering, co-advised by <a href='https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/?sc_lang=en'>Dr. Puxiang Lai</a> and <a href='https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-chunyi-wen/?sc_lang=en'>Dr. Chunyi Wen</a>, and my master study in Johns Hopkins University in Biomedical Engineering, co-advised by <a href='https://profiles.hopkinsmedicine.org/provider/kai-ding/2777666'>Dr. Kai Ding</a> and <a href='https://engineering.jhu.edu/faculty/muyinatu-bell/'>Dr. Muyinatu Bell</a>.
+During my Ph.D., I also earned a master in Computer Science from the Georgia Institute of Technology, and I have interned at <a href='https://tech.facebook.com/reality-labs/'>Meta Reality Labs</a>.
 
+Before joining GT/Emory, I completed my undergraduate studies in Biomedical Engineering at the Hong Kong Polytechnic University, co-advised by <a href='https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/?sc_lang=en'>Dr. Puxiang Lai</a> and <a href='https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-chunyi-wen/?sc_lang=en'>Dr. Chunyi Wen</a>. I then earned my master’s degree in Biomedical Engineering from Johns Hopkins University, co-advised by <a href='https://profiles.hopkinsmedicine.org/provider/kai-ding/2777666'>Dr. Kai Ding</a> and <a href='https://engineering.jhu.edu/faculty/muyinatu-bell/'>Dr. Muyinatu Bell</a>.
+
+I am originally from China, born in the south and raised in the northeast.
 
 
 
