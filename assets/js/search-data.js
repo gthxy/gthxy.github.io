@@ -412,16 +412,25 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_20/";
+            },},{id: "news-our-paper-photoacoustic-strain-pas-imaging-for-tissue-microcirculation-assessment-was-published-in-ieee-transactions-on-medical-imaging",
+          title: 'Our paper “Photoacoustic-Strain (PAS) Imaging for Tissue Microcirculation Assessment” was published in IEEE...',
+          description: "",
+          section: "News",},{id: "news-our-paper-depth-dependent-fluence-compensation-without-a-priori-knowledge-of-tissue-composition-for-quantitative-ultrasound-guided-photoacoustic-imaging-was-published-in-the-journal-of-biomedical-optics",
+          title: 'Our paper “Depth-Dependent Fluence Compensation without a Priori Knowledge of Tissue Composition for...',
+          description: "",
+          section: "News",},{id: "news-our-paper-ultrasound-guided-photoacoustic-monitoring-of-vascular-ischemia-in-implant-induced-skin-necrosis-was-published-in-ultrasound-in-medicine-amp-amp-biology",
+          title: 'Our paper “Ultrasound-Guided Photoacoustic Monitoring of Vascular Ischemia in Implant-Induced Skin Necrosis” was...',
+          description: "",
+          section: "News",},{id: "news-i-presented-a-talk-on-ultrasound-photoacoustic-shear-wave-imaging-to-predict-craniofacial-implant-exposure-and-shared-two-posters-understanding-the-mechanism-of-water-induced-finger-wrinkling-and-ultrasound-based-method-for-noninvasive-estimation-of-central-venous-pressure-at-the-bmes-2025-annual-meeting-in-san-diego-ca-palm-tree",
+          title: 'I presented a talk on “Ultrasound/Photoacoustic/Shear Wave Imaging to Predict Craniofacial Implant Exposure”...',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-talk-titled-understanding-the-mechanism-of-water-induced-finger-wrinkling-at-the-2025-southeast-regional-sicb-meeting-hosted-by-clemson-university",
+          title: 'I gave a talk titled “Understanding the Mechanism of Water-induced Finger Wrinkling” at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
