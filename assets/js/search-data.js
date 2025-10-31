@@ -30,20 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -426,8 +412,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-ultrasound-guided-photoacoustic-monitoring-of-vascular-ischemia-in-implant-induced-skin-necrosis-was-published-in-ultrasound-in-medicine-amp-amp-biology",
           title: 'Our paper “Ultrasound-Guided Photoacoustic Monitoring of Vascular Ischemia in Implant-Induced Skin Necrosis” was...',
           description: "",
-          section: "News",},{id: "news-i-presented-a-talk-on-ultrasound-photoacoustic-shear-wave-imaging-to-predict-craniofacial-implant-exposure-and-shared-two-posters-understanding-the-mechanism-of-water-induced-finger-wrinkling-and-ultrasound-based-method-for-noninvasive-estimation-of-central-venous-pressure-at-the-bmes-2025-annual-meeting-in-san-diego-ca-palm-tree",
-          title: 'I presented a talk on “Ultrasound/Photoacoustic/Shear Wave Imaging to Predict Craniofacial Implant Exposure”...',
+          section: "News",},{id: "news-i-presented-ultrasound-photoacoustic-shear-wave-imaging-to-predict-craniofacial-implant-exposure-and-shared-two-posters-understanding-the-mechanism-of-water-induced-finger-wrinkling-and-ultrasound-based-method-for-noninvasive-estimation-of-central-venous-pressure-at-the-bmes-2025-annual-meeting-in-san-diego-ca-palm-tree",
+          title: 'I presented “Ultrasound/Photoacoustic/Shear Wave Imaging to Predict Craniofacial Implant Exposure” and shared two...',
           description: "",
           section: "News",},{id: "news-i-gave-a-talk-titled-understanding-the-mechanism-of-water-induced-finger-wrinkling-at-the-2025-southeast-regional-sicb-meeting-hosted-by-clemson-university",
           title: 'I gave a talk titled “Understanding the Mechanism of Water-induced Finger Wrinkling” at...',
