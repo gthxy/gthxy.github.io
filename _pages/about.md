@@ -22,7 +22,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 I am a PhD student in Biomedical Engineering at the Georgia Institute of Technology and Emory University, working in the <a href='https://ultrasound.gatech.edu/'>Ultrasound Imaging and Therapeutics Research Lab</a> under the supervision of <a href='https://bme.gatech.edu/bio/stanislav-emelianov'>Dr. Stanislav Emelianov</a>. During my PhD, I also earned a MS degree in Computer Science from the Georgia Institute of Technology, and I have interned with the Sensors Team at <a href='https://tech.facebook.com/reality-labs/'>Meta Reality Labs</a>.
