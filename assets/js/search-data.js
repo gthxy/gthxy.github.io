@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-news",
+          title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/news/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -29,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "post-no-8-georgia-tech-football-is-8-0-and-off-to-its-best-start-since-1966-go-yellow-jackets-bee",
         
@@ -90,11 +97,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_20/";
             },},{id: "news-our-paper-photoacoustic-strain-pas-imaging-for-tissue-microcirculation-assessment-was-published-in-ieee-transactions-on-medical-imaging",
           title: 'Our paper “Photoacoustic-Strain (PAS) Imaging for Tissue Microcirculation Assessment” was published in IEEE...',
           description: "",
