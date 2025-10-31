@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Xinyue
 middle_name: 
 last_name: Huang
-contact_note: The best way to reach me - send an email.
+contact_note: The best way to reach me - shoot an email!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: ultrasound, medical imaging, hemodynamics # add your own keywords or leave empty
@@ -81,8 +81,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: The Blogs # blog_name will be displayed in your blog page
-blog_description: some random things
+blog_name: X Blogs # blog_name will be displayed in your blog page
+blog_description: where I post all random things
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
