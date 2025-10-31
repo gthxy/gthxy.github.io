@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<u>I earned a MSE degree in Biomedical Engineering from <b>Johns Hopkins University</b>!</u>
+<u>I earned a <b>MSE degree in Biomedical Engineering</b> from <b>Johns Hopkins University</b>!</u>
