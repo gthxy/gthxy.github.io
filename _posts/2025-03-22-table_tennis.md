@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "I participated in the 2024 Atlanta Fall Table Tennis On Demand Tournament :ping_pong: but unfortunately, did not advance from the group stage..."
+title: "I participated in the 2024 Atlanta Fall Table Tennis On-Demand Tournament :ping_pong: but didn't make it out of the group stage..."
 date: 2025-03-22 14:24:00
-description: this is what included plotly.js code could look like
+description: Fun fact - I lost to a player who was under 10 years old.
 tags: table_tennis
 categories: sports
 chart:

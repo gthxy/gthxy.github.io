@@ -17,17 +17,17 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 5 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Biomedical Engineering at the Georgia Institute of Technology and Emory University, working in the <a href='https://ultrasound.gatech.edu/'>Ultrasound Imaging and Therapeutics Research Lab</a> under the supervision of <a href='https://bme.gatech.edu/bio/stanislav-emelianov'>Dr. Stanislav Emelianov</a>. During my PhD, I also earned a MS degree in Computer Science from the Georgia Institute of Technology, and I have interned with the Sensors Team at <a href='https://tech.facebook.com/reality-labs/'>Meta Reality Labs</a>.
+I am a PhD student in Biomedical Engineering at the Georgia Institute of Technology and Emory University. I work in the <a href='https://ultrasound.gatech.edu/'>Ultrasound Imaging and Therapeutics Research Lab</a>, advised by <a href='https://bme.gatech.edu/bio/stanislav-emelianov'>Dr. Stanislav Emelianov</a>. During my PhD, I also earned a MS degree in Computer Science from the Georgia Institute of Technology, with a specialization in Machine Learning, and I have interned with the Sensors Team at <a href='https://tech.facebook.com/reality-labs/'>Meta Reality Labs</a>.
 
-My research focuses on ultrasound-based imaging techniques, including ultrasound, photoacoustic, elasticity, and Doppler imaging. <u>I believe that ultrasound is a versatile tool capable of revealing far more information than we thought.</u> I use signal processing and deep learning to develop new imaging methods and applications for multi-scale hemodynamic assessment.
+My research focuses on ultrasound-based imaging techniques, including ultrasound, photoacoustic, elasticity, and Doppler imaging. <u>I believe that ultrasound is a versatile tool capable of revealing far more information than we thought.</u> I use signal and image processing and learning-based techniques to develop new imaging methods and applications for multi-scale hemodynamic assessment.
 
 Before joining GT/Emory, I completed my undergraduate studies in Biomedical Engineering at the Hong Kong Polytechnic University, co-advised by <a href='https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-puxiang-lai/?sc_lang=en'>Dr. Puxiang Lai</a> and <a href='https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-chunyi-wen/?sc_lang=en'>Dr. Chunyi Wen</a>. I then earned my master’s degree in Biomedical Engineering from Johns Hopkins University, co-advised by <a href='https://profiles.hopkinsmedicine.org/provider/kai-ding/2777666'>Dr. Kai Ding</a> and <a href='https://engineering.jhu.edu/faculty/muyinatu-bell/'>Dr. Muyinatu Bell</a>.
 
