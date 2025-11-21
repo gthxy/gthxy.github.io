@@ -37,44 +37,44 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-no-8-georgia-tech-football-is-8-0-and-off-to-its-best-start-since-1966-go-yellow-jackets-bee",
+        },{id: "post-no-8-georgia-tech-football-is-8-0-and-off-to-its-best-start-since-1966-bee",
         
           title: "No. 8 Georgia Tech :football: is 8-0 and off to its best start...",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Let’s wreck ’em! Go Jackets!!!",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/yellow_jackets/";
           
         },
-      },{id: "post-i-participated-in-the-2024-atlanta-fall-table-tennis-on-demand-tournament-ping-pong-but-unfortunately-did-not-advance-from-the-group-stage",
+      },{id: "post-i-participated-in-the-2024-atlanta-fall-table-tennis-on-demand-tournament-ping-pong-but-didn-39-t-make-it-out-of-the-group-stage",
         
-          title: "I participated in the 2024 Atlanta Fall Table Tennis On Demand Tournament :ping_pong:...",
+          title: "I participated in the 2024 Atlanta Fall Table Tennis On-Demand Tournament :ping_pong: but...",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Fun fact - I lost to a player who was under 10 years old.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/table_tennis/";
           
         },
-      },{id: "post-i-completed-all-achievements-in-balatro-clown-face-black-joker-including-earning-a-gold-sticker-on-every-joker",
+      },{id: "post-i-completed-all-achievements-in-balatro-clown-face-black-joker-including-earning-a-gold-sticker-on-every-joker-completionist",
         
           title: "I completed ALL achievements in Balatro :clown_face: :black_joker:, including earning a Gold Sticker...",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Fewer than 0.1% of all players have done this. Massive!",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024/balatro/";
           
         },
-      },{id: "post-for-the-second-time-in-my-life-i-observed-a-total-solar-eclipse-waxing-crescent-moon-in-michigan",
+      },{id: "post-for-the-second-time-in-my-life-i-witnessed-a-total-solar-eclipse-waxing-crescent-moon",
         
-          title: "For the second time in my life, I observed a total solar eclipse...",
+          title: "For the second time in my life, I witnessed a total solar eclipse!...",
         
-        description: "this is what included plotly.js code could look like",
+        description: "The first time was on my very first day in the US - guess when and where!",
         section: "Posts",
         handler: () => {
           
@@ -91,6 +91,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-deep-learning-for-ultrasound-beamforming-in-flexible-array-transducer-was-published-in-ieee-transactions-on-medical-imaging",
           title: 'Our paper “Deep Learning for Ultrasound Beamforming in Flexible Array Transducer” was published...',
+          description: "",
+          section: "News",},{id: "news-i-virtually-presented-our-work-a-novel-end-to-end-deep-learning-based-beamformer-for-flexible-array-ultrasound-transducer-at-aapm-63rd-annual-meeting",
+          title: 'I virtually presented our work “A Novel End-To-End Deep Learning Based Beamformer for...',
           description: "",
           section: "News",},{id: "news-i-started-my-phd-in-biomedical-engineering-at-the-georgia-institute-of-technology-and-emory-university",
           title: 'I started my PhD in Biomedical Engineering at the Georgia Institute of Technology...',
@@ -116,8 +119,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-enhancing-image-guided-radiation-therapy-for-pancreatic-cancer-utilizing-aligned-peak-response-beamforming-in-flexible-array-transducers-was-published-in-cancers",
           title: 'Our paper “Enhancing Image-Guided Radiation Therapy for Pancreatic Cancer: Utilizing Aligned Peak Response...',
           description: "",
-          section: "News",},{id: "news-i-began-my-internship-with-the-sensors-team-at-meta-reality-labs-in-redmond-wa",
-          title: 'I began my internship with the Sensors Team at Meta Reality Labs in...',
+          section: "News",},{id: "news-i-concluded-my-internship-with-the-sensors-team-at-meta-reality-labs-in-redmond-wa",
+          title: 'I concluded my internship with the Sensors Team at Meta Reality Labs in...',
           description: "",
           section: "News",},{id: "news-our-paper-out-of-focus-signal-rejection-for-in-vivo-po2-measurements-using-two-photon-phosphorescence-lifetime-microscopy-was-published-in-biomedical-optics-express",
           title: 'Our paper “Out-of-Focus Signal Rejection for in vivo pO2 Measurements Using Two-Photon Phosphorescence...',
