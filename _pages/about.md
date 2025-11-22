@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 黄欣悦 • <span style='color:#FECBD9;'>Living young and wild and free</span>
+subtitle: 黄欣悦 • <span style='color:#e699a5;'>Living young and wild and free</span>
 
 profile:
   align: right
