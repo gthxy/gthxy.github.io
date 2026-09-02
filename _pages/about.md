@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 
-I am a Postdoctoral Scholar at the California Institute of Technology (Caltech), working with <a href='https://www.eas.caltech.edu/people/daraio'>Prof. Chiara Daraio</a> on next-generation sensing and wearable technologies in collaboration with <a href='https://tech.facebook.com/reality-labs/'>Meta Reality Labs</a>.
+I am a Postdoctoral Scholar at the California Institute of Technology, working with <a href='https://www.eas.caltech.edu/people/daraio'>Prof. Chiara Daraio</a> on next-generation sensing and wearable technologies in collaboration with <a href='https://tech.facebook.com/reality-labs/'>Meta Reality Labs</a>.
 
 I received my PhD in Biomedical Engineering from the Georgia Institute of Technology and Emory University, where I was advised by <a href='https://bme.gatech.edu/bio/stanislav-emelianov'>Prof. Stanislav Emelianov</a>. During my PhD, I also earned an MS in Computer Science from Georgia Tech, specializing in Machine Learning, and interned with the Sensors Team at <a href='https://tech.facebook.com/reality-labs/'>Meta Reality Labs</a>.
 
