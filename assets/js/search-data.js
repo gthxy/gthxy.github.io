@@ -161,10 +161,10 @@ ninja.data = [{
           title: 'Our paper “Shear Wave Elasticity Imaging for Monitoring Risk of Skin Breakdown Following...',
           description: "",
           section: "News",},{id: "news-i-defended-my-phd-dissertation-quot-development-of-ultrasound-based-methods-for-multiscale-hemodynamic-assessment-quot",
-          title: 'I defended my PhD dissertation &amp;quot;Development of Ultrasound-Based Methods for Multiscale Hemodynamic Assessment&amp;quot;...',
+          title: 'I defended my PhD dissertation &amp;quot;Development of Ultrasound-Based Methods for Multiscale Hemodynamic Assessment&amp;quot;....',
           description: "",
-          section: "News",},{id: "news-i-joined-the-california-institute-of-technology-caltech-as-a-postdoctoral-scholar-in-prof-chiara-daraio-s-group-working-on-next-generation-sensing-and-wearable-technologies-in-collaboration-with-meta-reality-labs",
-          title: 'I joined the California Institute of Technology (Caltech) as a Postdoctoral Scholar in...',
+          section: "News",},{id: "news-i-joined-the-california-institute-of-technology-as-a-postdoctoral-scholar-in-collaboration-with-meta",
+          title: 'I joined the California Institute of Technology as a Postdoctoral Scholar, in collaboration...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -216,7 +216,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%78%69%6E%79%75%65@%67%61%74%65%63%68.%65%64%75", "_blank");
+          window.open("mailto:%61%74%6C.%68%78%79@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-linkedin',
