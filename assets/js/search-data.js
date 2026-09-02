@@ -174,7 +174,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-defended-my-phd-dissertation-quot-development-of-ultrasound-based-methods-for-multiscale-hemodynamic-assessment-quot",
           title: 'I successfully defended my PhD dissertation &amp;quot;Development of Ultrasound-Based Methods for Multiscale Hemodynamic...',
           description: "",
-          section: "News",},{id: "news-i-joined-the-california-institute-of-technology-as-a-postdoctoral-scholar-in-collaboration-with-meta-amp-lt-u-amp-gt",
+          section: "News",},{id: "news-i-joined-the-california-institute-of-technology-as-a-postdoctoral-scholar-in-collaboration-with-meta",
           title: 'I joined the California Institute of Technology as a Postdoctoral Scholar, in collaboration...',
           description: "",
           section: "News",},{id: "projects-project-1",
