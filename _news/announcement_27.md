@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<u>I joined the California Institute of Technology as a Postdoctoral Scholar, in collaboration with Meta.</u>
+<u>I joined the <b>California Institute of Technology<b> as a <b>Postdoctoral Scholar<b>, in collaboration with <b>Meta<b>.</u>
 
