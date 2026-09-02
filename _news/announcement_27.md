@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<u>I joined the California Institute of Technology (Caltech) as a Postdoctoral Scholar in <a href='https://www.daraio.caltech.edu/'>Prof. Chiara Daraio’s Group</a>, working on next-generation sensing and wearable technologies in collaboration with Meta Reality Labs!</u>
+<u>I joined the California Institute of Technology as a Postdoctoral Scholar, in collaboration with Meta.</u>
 
