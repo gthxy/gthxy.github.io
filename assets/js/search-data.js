@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-no-8-georgia-tech-football-is-8-0-and-off-to-its-best-start-since-1966-bee",
+        },{id: "post-i-volunteered-at-the-2026-fifa-world-cup-soccer",
+        
+          title: "I volunteered at the 2026 FIFA World Cup! :soccer:",
+        
+        description: "Five matches, two roles, and one unforgettable World Cup experience!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/world_cup/";
+          
+        },
+      },{id: "post-no-8-georgia-tech-football-is-8-0-and-off-to-its-best-start-since-1966-bee",
         
           title: "No. 8 Georgia Tech :football: is 8-0 and off to its best start...",
         
@@ -63,7 +74,7 @@ ninja.data = [{
             window.location.href = "/blog/2024/balatro/";
           
         },
-      },{id: "post-for-the-second-time-in-my-life-i-witnessed-a-total-solar-eclipse-waxing-crescent-moon",
+      },{id: "post-for-the-second-time-in-my-life-i-witnessed-a-total-solar-eclipse",
         
           title: "For the second time in my life, I witnessed a total solar eclipse!...",
         
