@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<u>I passed my PhD thesis proposal and am now officially a <b>PhD candidate</b>.</u>
+I passed my PhD thesis proposal and am now officially a <b>PhD candidate</b>.

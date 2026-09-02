@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href='https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-11-4902'>"High-Resolution Three-Dimensional Quantitative Photoacoustic and Ultrasound Imaging of Subcutaneous Microvasculature in Extremities"</a> was published in <b>Biomedical Optics Express</b>.
+Our paper <a href='https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-11-4902'>"High-Resolution Three-Dimensional Quantitative Photoacoustic and Ultrasound Imaging of Subcutaneous Microvasculature in Extremities"</a> is published in <b>Biomedical Optics Express</b>.

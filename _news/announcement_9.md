@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href='https://www.mdpi.com/2072-6694/16/7/1244'>"Enhancing Image-Guided Radiation Therapy for Pancreatic Cancer: Utilizing Aligned Peak Response Beamforming in Flexible Array Transducers"</a> was published in <b>Cancers</b>.
+Our paper <a href='https://www.mdpi.com/2072-6694/16/7/1244'>"Enhancing Image-Guided Radiation Therapy for Pancreatic Cancer: Utilizing Aligned Peak Response Beamforming in Flexible Array Transducers"</a> is published in <b>Cancers</b>.

@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<u>I defended my PhD dissertation <a href='https://repository.gatech.edu/home'>"Development of Ultrasound-Based Methods for Multiscale Hemodynamic Assessment"</a>.</u>
+<u>I successfully defended my PhD dissertation <a href='https://repository.gatech.edu/home'>"Development of Ultrasound-Based Methods for Multiscale Hemodynamic Assessment"</a>.</u>
 

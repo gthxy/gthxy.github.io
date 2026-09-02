@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href='https://opg.optica.org/boe/viewmedia.cfm?uri=boe-16-1-159&html=true'>"Out-of-Focus Signal Rejection for in vivo pO2 Measurements Using Two-Photon Phosphorescence Lifetime Microscopy"</a> was published in <b>Biomedical Optics Express</b>.
+Our paper <a href='https://opg.optica.org/boe/viewmedia.cfm?uri=boe-16-1-159&html=true'>"Out-of-Focus Signal Rejection for in vivo pO2 Measurements Using Two-Photon Phosphorescence Lifetime Microscopy"</a> is published in <b>Biomedical Optics Express</b>.

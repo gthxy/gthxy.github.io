@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href='https://www.mdpi.com/2072-6694/15/13/3294'>"Ultrasound Imaging with Flexible Array Transducer for Pancreatic Cancer Radiation Therapy"</a> was published in <b>Cancers</b>.
+Our paper <a href='https://www.mdpi.com/2072-6694/15/13/3294'>"Ultrasound Imaging with Flexible Array Transducer for Pancreatic Cancer Radiation Therapy"</a> is published in <b>Cancers</b>.
