@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I virtually presented a poster titled <i>"Combined Ultrasound, Photoacoustic, and Elasticity Imaging on the Vevo F2 Imaging System."</i> at <b>IEEE IUS 2022</b>.
+I virtually presented a poster titled <i>"Combined Ultrasound, Photoacoustic, and Elasticity Imaging on the Vevo F2 Imaging System"</i> at <b>IEEE IUS 2022</b>.

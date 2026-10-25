@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I virtually presented our work <i>"A Novel End-To-End Deep Learning Based Beamformer for Flexible Array Ultrasound Transducer."<i> at <b>AAPM 63rd Annual Meeting</b>.
+I virtually presented our work <i>"A Novel End-To-End Deep Learning Based Beamformer for Flexible Array Ultrasound Transducer"</i> at <b>AAPM 63rd Annual Meeting</b>.
